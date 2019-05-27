@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "D:\\opencv\\opencv-demo\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\roger\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\opencv\\opencv-demo\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "libopencv_java4-Release-arm64-v8a": {
+      "artifactName": "libopencv_java4",
+      "abi": "arm64-v8a",
+      "output": "D:\\opencv\\opencv-demo\\app\\src\\main\\jniLibs\\arm64-v8a\\libopencv_java4.so"
+    },
+    "native-lib-Release-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\roger\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\opencv\\opencv-demo\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "D:\\opencv\\opencv-demo\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libnative-lib.so"
+    }
+  }
+}
